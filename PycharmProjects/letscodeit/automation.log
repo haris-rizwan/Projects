@@ -1,0 +1,56 @@
+06/10/2017 04:40:34 PM - LoginClass - INFO: Element found with locator: Login and  locatorType: link
+06/10/2017 04:40:34 PM - LoginClass - INFO: Clicked on element with locator: Login locatorType: link
+06/10/2017 04:40:37 PM - LoginClass - INFO: Element found with locator: user_email and  locatorType: id
+06/10/2017 04:40:37 PM - LoginClass - INFO: Sent data on element with locator: user_email locatorType: id
+06/10/2017 04:40:37 PM - LoginClass - INFO: Element found with locator: user_password and  locatorType: id
+06/10/2017 04:40:37 PM - LoginClass - INFO: Sent data on element with locator: user_password locatorType: id
+06/10/2017 04:40:37 PM - LoginClass - INFO: Element found with locator: commit and  locatorType: name
+06/10/2017 04:40:39 PM - LoginClass - INFO: Clicked on element with locator: commit locatorType: name
+06/10/2017 04:40:42 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+06/10/2017 04:40:42 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/10/2017 04:40:47 PM - RegisterCoursesPage - INFO: Element found with locator: .//div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/10/2017 04:40:47 PM - RegisterCoursesPage - INFO: Clicked on element with locator: .//div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/10/2017 04:40:52 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/10/2017 04:40:54 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/10/2017 04:41:00 PM - RegisterCoursesPage - INFO: Element found with locator: cc_field and  locatorType: id
+06/10/2017 04:41:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cc_field locatorType: id
+06/10/2017 04:41:00 PM - RegisterCoursesPage - INFO: Element found with locator: cc-exp and  locatorType: id
+06/10/2017 04:41:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cc-exp locatorType: id
+06/10/2017 04:41:00 PM - RegisterCoursesPage - INFO: Element found with locator: cc_cvc and  locatorType: id
+06/10/2017 04:41:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cc_cvc locatorType: id
+06/10/2017 04:41:03 PM - RegisterCoursesPage - INFO: Element found with locator: country-select-inside and  locatorType: id
+06/10/2017 04:41:06 PM - RegisterCoursesPage - INFO: Element found with locator: verify_cc_btn and  locatorType: id
+06/10/2017 04:41:06 PM - RegisterCoursesPage - INFO: Clicked on element with locator: verify_cc_btn locatorType: id
+06/10/2017 04:41:11 PM - RegisterCoursesPage - INFO: Element found with locator: cc_field and  locatorType: id
+06/10/2017 04:41:11 PM - RegisterCoursesPage - INFO: Element is displayed with locator: cc_field locatorType: id
+06/10/2017 04:41:11 PM - RegisterCoursesPage - INFO: Element found with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] and  locatorType: xpath
+06/10/2017 04:41:11 PM - RegisterCoursesPage - INFO: Element found with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] and  locatorType: xpath
+06/10/2017 04:41:11 PM - RegisterCoursesPage - INFO: Element is displayed with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] locatorType: xpath
+06/10/2017 04:42:17 PM - LoginClass - INFO: Element found with locator: Login and  locatorType: link
+06/10/2017 04:42:17 PM - LoginClass - INFO: Clicked on element with locator: Login locatorType: link
+06/10/2017 04:42:20 PM - LoginClass - INFO: Element found with locator: user_email and  locatorType: id
+06/10/2017 04:42:21 PM - LoginClass - INFO: Sent data on element with locator: user_email locatorType: id
+06/10/2017 04:42:21 PM - LoginClass - INFO: Element found with locator: user_password and  locatorType: id
+06/10/2017 04:42:21 PM - LoginClass - INFO: Sent data on element with locator: user_password locatorType: id
+06/10/2017 04:42:21 PM - LoginClass - INFO: Element found with locator: commit and  locatorType: name
+06/10/2017 04:42:21 PM - LoginClass - INFO: Clicked on element with locator: commit locatorType: name
+06/10/2017 04:42:24 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+06/10/2017 04:42:24 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/10/2017 04:42:29 PM - RegisterCoursesPage - INFO: Element found with locator: .//div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/10/2017 04:42:29 PM - RegisterCoursesPage - INFO: Clicked on element with locator: .//div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/10/2017 04:42:34 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/10/2017 04:42:34 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/10/2017 04:42:40 PM - RegisterCoursesPage - INFO: Element found with locator: cc_field and  locatorType: id
+06/10/2017 04:42:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cc_field locatorType: id
+06/10/2017 04:42:40 PM - RegisterCoursesPage - INFO: Element found with locator: cc-exp and  locatorType: id
+06/10/2017 04:42:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cc-exp locatorType: id
+06/10/2017 04:42:40 PM - RegisterCoursesPage - INFO: Element found with locator: cc_cvc and  locatorType: id
+06/10/2017 04:42:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cc_cvc locatorType: id
+06/10/2017 04:42:43 PM - RegisterCoursesPage - INFO: Element found with locator: country-select-inside and  locatorType: id
+06/10/2017 04:42:45 PM - RegisterCoursesPage - INFO: Element found with locator: verify_cc_btn and  locatorType: id
+06/10/2017 04:42:45 PM - RegisterCoursesPage - INFO: Clicked on element with locator: verify_cc_btn locatorType: id
+06/10/2017 04:42:50 PM - RegisterCoursesPage - INFO: Element found with locator: cc_field and  locatorType: id
+06/10/2017 04:42:50 PM - RegisterCoursesPage - INFO: Element is displayed with locator: cc_field locatorType: id
+06/10/2017 04:42:51 PM - RegisterCoursesPage - INFO: Element found with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] and  locatorType: xpath
+06/10/2017 04:42:51 PM - RegisterCoursesPage - INFO: Element found with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] and  locatorType: xpath
+06/10/2017 04:42:51 PM - RegisterCoursesPage - INFO: Element is displayed with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] locatorType: xpath
