@@ -54,3 +54,58 @@
 06/10/2017 04:42:51 PM - RegisterCoursesPage - INFO: Element found with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] and  locatorType: xpath
 06/10/2017 04:42:51 PM - RegisterCoursesPage - INFO: Element found with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] and  locatorType: xpath
 06/10/2017 04:42:51 PM - RegisterCoursesPage - INFO: Element is displayed with locator: .//div[@id='checkout_form_errors']//div[contains(text(),'The card number is invalid.')] locatorType: xpath
+06/15/2017 01:27:23 PM - LoginClass - INFO: Element found with locator: Login and  locatorType: link
+06/15/2017 01:27:23 PM - LoginClass - INFO: Clicked on element with locator: Login locatorType: link
+06/15/2017 01:27:26 PM - LoginClass - INFO: Element found with locator: user_email and  locatorType: id
+06/15/2017 01:27:26 PM - LoginClass - INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2017 01:27:26 PM - LoginClass - INFO: Element found with locator: user_password and  locatorType: id
+06/15/2017 01:27:26 PM - LoginClass - INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2017 01:27:26 PM - LoginClass - INFO: Element found with locator: commit and  locatorType: name
+06/15/2017 01:27:26 PM - LoginClass - INFO: Clicked on element with locator: commit locatorType: name
+06/15/2017 01:27:29 PM - LoginClass - INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+06/15/2017 01:27:29 PM - LoginClass - INFO: Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+06/15/2017 01:27:29 PM - LoginClass - INFO: Element found with locator: Login and  locatorType: link
+06/15/2017 01:27:29 PM - LoginClass - INFO: Clicked on element with locator: Login locatorType: link
+06/15/2017 01:27:32 PM - LoginClass - INFO: Element found with locator: user_email and  locatorType: id
+06/15/2017 01:27:32 PM - LoginClass - INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2017 01:27:32 PM - LoginClass - INFO: Element found with locator: user_password and  locatorType: id
+06/15/2017 01:27:32 PM - LoginClass - INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2017 01:27:32 PM - LoginClass - INFO: Element found with locator: commit and  locatorType: name
+06/15/2017 01:27:32 PM - LoginClass - INFO: Clicked on element with locator: commit locatorType: name
+06/15/2017 01:27:35 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/15/2017 01:27:35 PM - Util - INFO: Expected Text From Application Web UI --> :: Google
+06/15/2017 01:27:35 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+06/15/2017 01:27:35 PM - TestStatus - INFO: Verification UnsuccessfulTitle verification
+06/15/2017 01:27:36 PM - TestStatus - INFO: Screenshot save to directory: /Users/harisrizwan/Documents/Github/Projects/PycharmProjects/letscodeit/base/../screenshots/Title verification.1497547655868.png
+06/15/2017 01:27:36 PM - LoginClass - INFO: Element found with locator: .//div[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+06/15/2017 01:27:36 PM - LoginClass - INFO: Element present with locator: .//div[@id='navbar']//span[text()='User Settings'] locatorType: xpath
+06/15/2017 01:27:36 PM - TestStatus - INFO: Verification SuccessfulLogin Verification
+06/15/2017 01:27:36 PM - TestStatus - ERROR: test_validLogin Test Failed
+06/15/2017 01:39:48 PM - LoginClass - INFO: Element found with locator: Login and  locatorType: link
+06/15/2017 01:39:48 PM - LoginClass - INFO: Clicked on element with locator: Login locatorType: link
+06/15/2017 01:39:51 PM - LoginClass - INFO: Element found with locator: user_email and  locatorType: id
+06/15/2017 01:39:51 PM - LoginClass - INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2017 01:39:51 PM - LoginClass - INFO: Element found with locator: user_password and  locatorType: id
+06/15/2017 01:39:51 PM - LoginClass - INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2017 01:39:51 PM - LoginClass - INFO: Element found with locator: commit and  locatorType: name
+06/15/2017 01:39:51 PM - LoginClass - INFO: Clicked on element with locator: commit locatorType: name
+06/15/2017 01:39:54 PM - LoginClass - INFO: Element not found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+06/15/2017 01:39:54 PM - LoginClass - INFO: Element not present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+06/15/2017 01:39:54 PM - LoginClass - INFO: Element found with locator: Login and  locatorType: link
+06/15/2017 01:39:54 PM - LoginClass - INFO: Clicked on element with locator: Login locatorType: link
+06/15/2017 01:39:57 PM - LoginClass - INFO: Element found with locator: user_email and  locatorType: id
+06/15/2017 01:39:57 PM - LoginClass - INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2017 01:39:57 PM - LoginClass - INFO: Element found with locator: user_password and  locatorType: id
+06/15/2017 01:39:57 PM - LoginClass - INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2017 01:39:57 PM - LoginClass - INFO: Element found with locator: commit and  locatorType: name
+06/15/2017 01:39:57 PM - LoginClass - INFO: Clicked on element with locator: commit locatorType: name
+06/15/2017 01:40:00 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/15/2017 01:40:00 PM - Util - INFO: Expected Text From Application Web UI --> :: Google
+06/15/2017 01:40:00 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+06/15/2017 01:40:00 PM - TestStatus - INFO: Verification UnsuccessfulTitle verification
+06/15/2017 01:40:01 PM - TestStatus - INFO: Screenshot save to directory: /Users/harisrizwan/Documents/Github/Projects/PycharmProjects/letscodeit/base/../screenshots/Title verification.1497548400943.png
+06/15/2017 01:40:01 PM - LoginClass - INFO: Element not found with locator: .//div[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+06/15/2017 01:40:01 PM - LoginClass - INFO: Element not present with locator: .//div[@id='navbar']//span[text()='User Settings'] locatorType: xpath
+06/15/2017 01:40:01 PM - TestStatus - INFO: Verification UnsuccessfulLogin Verification
+06/15/2017 01:40:01 PM - TestStatus - INFO: Screenshot save to directory: /Users/harisrizwan/Documents/Github/Projects/PycharmProjects/letscodeit/base/../screenshots/Login Verification.1497548401253.png
+06/15/2017 01:40:01 PM - TestStatus - ERROR: test_validLogin Test Failed
